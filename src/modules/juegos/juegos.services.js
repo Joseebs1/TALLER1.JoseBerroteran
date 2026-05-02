@@ -8,7 +8,7 @@ let juegos = [
         maxJugadores: 10,
         duracionPartida: 60,
         fechaCompra: '19-08-2010',
-        estado: 'Ligeramente usado'
+        estado: 'Deteriorado'
     },
     {
         id: 2,
@@ -20,7 +20,6 @@ let juegos = [
         estado: 'En perfectas condiciones'
     }
 ]
-
 
 const ESTADOS = [
     'En perfectas condiciones',

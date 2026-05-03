@@ -1,4 +1,4 @@
-import juegosService from "./juegos.service.js";
+import juegosService from "./juegos.services.js";
 
 const juegosController = {}
 

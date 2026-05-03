@@ -6,7 +6,7 @@ import morgan from 'morgan'
 
 //SETTINGS
 const app = express()
-app.set("port", 3001)
+app.set("port", 3000)
 
 //MIDDLEWARES
 app.use(morgan("dev"))
